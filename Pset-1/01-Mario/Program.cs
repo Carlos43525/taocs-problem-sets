@@ -6,7 +6,7 @@ namespace _01_Mario
     {
         static void Main(string[] args)
         {
-
+            
         }
     }
 }
