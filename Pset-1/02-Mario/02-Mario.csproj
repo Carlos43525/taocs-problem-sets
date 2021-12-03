@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_02_Mario</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+     <Reference Include="Tao.Help">
+       <HintPath>../../imports/Tao.Help.dll</HintPath>
+     </Reference>
+  </ItemGroup>
+
+</Project>
