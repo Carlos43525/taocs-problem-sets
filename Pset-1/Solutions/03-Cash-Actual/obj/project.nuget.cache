@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W6doVn2iUiKrn3wfRaSlR0XcSxayL3UT2xEUK6aOo8hQoQ4BNQyzsgFpQZ2qHVpvlYrypU6zztAr3CWreTHMFw==",
+  "dgSpecHash": "MHIqRxV0Pve8o8+LFtxxukUOu+no9Mhfz2FjSGef6qWCXmSghq24JJ9JvDI9BoTA46KGI6y8kB5LL83QQET6bg==",
   "success": true,
-  "projectFilePath": "/workspaces/taocs-problem-sets/Pset-1/03-Cash-Actual/03-Cash-Actual.csproj",
+  "projectFilePath": "/workspaces/taocs-problem-sets/Pset-1/Solutions/03-Cash-Actual/03-Cash-Actual.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

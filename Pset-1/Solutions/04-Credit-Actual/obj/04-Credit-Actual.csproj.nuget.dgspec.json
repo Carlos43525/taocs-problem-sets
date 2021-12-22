@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/taocs-problem-sets/Pset-1/Solutions/03-Cash-Actual/03-Cash-Actual.csproj": {}
+    "/workspaces/taocs-problem-sets/Pset-1/Solutions/04-Credit-Actual/04-Credit-Actual.csproj": {}
   },
   "projects": {
-    "/workspaces/taocs-problem-sets/Pset-1/Solutions/03-Cash-Actual/03-Cash-Actual.csproj": {
+    "/workspaces/taocs-problem-sets/Pset-1/Solutions/04-Credit-Actual/04-Credit-Actual.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/taocs-problem-sets/Pset-1/Solutions/03-Cash-Actual/03-Cash-Actual.csproj",
-        "projectName": "03-Cash-Actual",
-        "projectPath": "/workspaces/taocs-problem-sets/Pset-1/Solutions/03-Cash-Actual/03-Cash-Actual.csproj",
+        "projectUniqueName": "/workspaces/taocs-problem-sets/Pset-1/Solutions/04-Credit-Actual/04-Credit-Actual.csproj",
+        "projectName": "04-Credit-Actual",
+        "projectPath": "/workspaces/taocs-problem-sets/Pset-1/Solutions/04-Credit-Actual/04-Credit-Actual.csproj",
         "packagesPath": "/home/vscode/.nuget/packages/",
-        "outputPath": "/workspaces/taocs-problem-sets/Pset-1/Solutions/03-Cash-Actual/obj/",
+        "outputPath": "/workspaces/taocs-problem-sets/Pset-1/Solutions/04-Credit-Actual/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vscode/.nuget/NuGet/NuGet.Config"
