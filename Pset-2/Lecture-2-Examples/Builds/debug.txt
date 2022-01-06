@@ -1,0 +1,8 @@
+To Debug:
+1. Press F5 or go to the debug panel (the icon of a bug with play button)
+2. Select Run and Debug
+3. Select .NET 5+ and .NET Core
+4. Select your .csproj (C# project file)
+5. Find your launch.json in your .vscode file
+6. change line 15 to: "console": "internalConsole",
+    7. If you don't 
