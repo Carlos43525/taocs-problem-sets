@@ -1,0 +1,16 @@
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/05_StructsAsLists/bin/Debug/net5.0/05_StructsAsLists
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/05_StructsAsLists/bin/Debug/net5.0/05_StructsAsLists.deps.json
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/05_StructsAsLists/bin/Debug/net5.0/05_StructsAsLists.runtimeconfig.json
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/05_StructsAsLists/bin/Debug/net5.0/05_StructsAsLists.runtimeconfig.dev.json
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/05_StructsAsLists/bin/Debug/net5.0/05_StructsAsLists.dll
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/05_StructsAsLists/bin/Debug/net5.0/ref/05_StructsAsLists.dll
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/05_StructsAsLists/bin/Debug/net5.0/05_StructsAsLists.pdb
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/05_StructsAsLists/obj/Debug/net5.0/05_StructsAsLists.csproj.AssemblyReference.cache
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/05_StructsAsLists/obj/Debug/net5.0/05_StructsAsLists.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/05_StructsAsLists/obj/Debug/net5.0/05_StructsAsLists.AssemblyInfoInputs.cache
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/05_StructsAsLists/obj/Debug/net5.0/05_StructsAsLists.AssemblyInfo.cs
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/05_StructsAsLists/obj/Debug/net5.0/05_StructsAsLists.csproj.CoreCompileInputs.cache
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/05_StructsAsLists/obj/Debug/net5.0/05_StructsAsLists.dll
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/05_StructsAsLists/obj/Debug/net5.0/ref/05_StructsAsLists.dll
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/05_StructsAsLists/obj/Debug/net5.0/05_StructsAsLists.pdb
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/05_StructsAsLists/obj/Debug/net5.0/05_StructsAsLists.genruntimeconfig.cache

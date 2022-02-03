@@ -1,0 +1,16 @@
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/04_ForEach/bin/Debug/net5.0/04_ForEach
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/04_ForEach/bin/Debug/net5.0/04_ForEach.deps.json
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/04_ForEach/bin/Debug/net5.0/04_ForEach.runtimeconfig.json
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/04_ForEach/bin/Debug/net5.0/04_ForEach.runtimeconfig.dev.json
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/04_ForEach/bin/Debug/net5.0/04_ForEach.dll
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/04_ForEach/bin/Debug/net5.0/ref/04_ForEach.dll
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/04_ForEach/bin/Debug/net5.0/04_ForEach.pdb
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/04_ForEach/obj/Debug/net5.0/04_ForEach.csproj.AssemblyReference.cache
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/04_ForEach/obj/Debug/net5.0/04_ForEach.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/04_ForEach/obj/Debug/net5.0/04_ForEach.AssemblyInfoInputs.cache
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/04_ForEach/obj/Debug/net5.0/04_ForEach.AssemblyInfo.cs
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/04_ForEach/obj/Debug/net5.0/04_ForEach.csproj.CoreCompileInputs.cache
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/04_ForEach/obj/Debug/net5.0/04_ForEach.dll
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/04_ForEach/obj/Debug/net5.0/ref/04_ForEach.dll
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/04_ForEach/obj/Debug/net5.0/04_ForEach.pdb
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/04_ForEach/obj/Debug/net5.0/04_ForEach.genruntimeconfig.cache

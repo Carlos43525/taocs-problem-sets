@@ -1,0 +1,16 @@
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/01_StructReview/bin/Debug/net5.0/01_StructReview
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/01_StructReview/bin/Debug/net5.0/01_StructReview.deps.json
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/01_StructReview/bin/Debug/net5.0/01_StructReview.runtimeconfig.json
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/01_StructReview/bin/Debug/net5.0/01_StructReview.runtimeconfig.dev.json
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/01_StructReview/bin/Debug/net5.0/01_StructReview.dll
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/01_StructReview/bin/Debug/net5.0/ref/01_StructReview.dll
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/01_StructReview/bin/Debug/net5.0/01_StructReview.pdb
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/01_StructReview/obj/Debug/net5.0/01_StructReview.csproj.AssemblyReference.cache
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/01_StructReview/obj/Debug/net5.0/01_StructReview.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/01_StructReview/obj/Debug/net5.0/01_StructReview.AssemblyInfoInputs.cache
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/01_StructReview/obj/Debug/net5.0/01_StructReview.AssemblyInfo.cs
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/01_StructReview/obj/Debug/net5.0/01_StructReview.csproj.CoreCompileInputs.cache
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/01_StructReview/obj/Debug/net5.0/01_StructReview.dll
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/01_StructReview/obj/Debug/net5.0/ref/01_StructReview.dll
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/01_StructReview/obj/Debug/net5.0/01_StructReview.pdb
+/workspaces/taocs-problem-sets/Pset-5/Lecture-5-Examples/01_StructReview/obj/Debug/net5.0/01_StructReview.genruntimeconfig.cache
